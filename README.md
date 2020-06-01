@@ -1,7 +1,7 @@
 # 2020-618-TB-miaobi-autojs
 奇怪的项目又增加了
 
-具体说明见https://blog.csdn.net/weixin_44090559/article/details/106461853
+具体说明和不知道怎么下载见https://blog.csdn.net/weixin_44090559/article/details/106461853
 
 可用的放在js和app主页上
 其他的文件夹里的都是自己测试用的历史版本，每个版本的问题和解决方法尽量有时间再填上
